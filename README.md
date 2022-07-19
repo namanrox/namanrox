@@ -1,5 +1,6 @@
+# About Me
 - 👋 Hi, I’m Namandeep Singh.
-- 👀 I’m interested in learning new things in the tech field. 
+- 👀 I am a passionate coder in C++ and Python. Being Front-end developer, I know HTML, CSS, JavaScript and ReactJs very well.
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/naman991/)
 - Check out my [Resume](https://github.com/Naman-codes2001/Naman-codes2001/files/8032208/Resume.pdf)
 
