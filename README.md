@@ -1,5 +1,5 @@
 # About Me
-- 👋 Hi, I’m Namandeep Singh.
+- 👋 Hi, I’m [Namandeep Singh](https://namanrox.vercel.app/).
 - 👀 I am a passionate coder in C++ and Python. Being Front-end developer, I know HTML, CSS, JavaScript and ReactJs very well.
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/naman991/) and [Gmail](mailto:naman.deep991@gmail.com)
 - Check out my [Resume](https://github.com/namanrox/namanrox/files/9351792/Namandeep.Singh.pdf)
