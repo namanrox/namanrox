@@ -46,10 +46,10 @@
 
 ---
 ### :fire: My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=namanrox&theme=violet-punch)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=namanrox&theme=violet-punch)](http://github-readme-streak-stats.herokuapp.com?user=namanrox&theme=violet-punch) 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namanrox&show_icons=true&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanrox&layout=compact&theme=midnight-purple)](https://github.com/namanrox/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanrox&layout=compact&theme=midnight-purple)](https://github-readme-stats.vercel.app/api/top-langs/?username=namanrox&layout=compact&theme=midnight-purple)
 
 [![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=namanrox&theme=redical)](https://activity-graph.herokuapp.com/graph?username=namanrox&theme=redical)
 
