@@ -4,13 +4,13 @@
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=namanrox&style=flat-square&color=blue" alt="" />
 </div>
-<div align="center">
+<div id="gif1" align="center">
   <h1>
     Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-<div align="center">
+<div id="gif2" align="center">
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="500" height="400"/>
 </div>
 
@@ -47,7 +47,7 @@
 ---
 ### :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=namanrox&theme=violet-punch)](https://git.io/streak-stats) 
-![GitHub Sats](https://github-readme-stats.vercel.app/api?username=namanrox&show_icons=true&theme=midnight-purple)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namanrox&show_icons=true&theme=midnight-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanrox&layout=compact&theme=midnight-purple)](https://github.com/namanrox/github-readme-stats)
 
