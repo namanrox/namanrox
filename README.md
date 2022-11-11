@@ -51,6 +51,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanrox&layout=compact&theme=midnight-purple)](https://github.com/namanrox/github-readme-stats)
 
+[![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=namanrox&theme=redical)](https://github.com/namanrox/github-readme-activity-graph)
+
 ---
 ### ✍️ Blog
 All Technical Stuff related to android technology can be found in my Blog. Visit [Google Blogger](https://androidtechnn.blogspot.com/) or [Wordpress](http://techandra.wordpress.com/)
