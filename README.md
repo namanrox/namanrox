@@ -51,7 +51,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanrox&layout=compact&theme=midnight-purple)
 
-[![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=namanrox&theme=redical)](https://activity-graph.herokuapp.com/graph?username=namanrox&theme=redical)
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=namanrox&theme=redical)
 
 ---
 ### ✍️ Blog
