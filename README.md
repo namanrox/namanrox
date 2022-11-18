@@ -45,6 +45,10 @@
 </div>
 
 ---
+### ✨ HactoberFest Badge 2k22
+![@namanrox's Holopin board](https://holopin.me/namanrox)
+
+---
 ### :fire: My Stats
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=namanrox&theme=violet-punch)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namanrox&show_icons=true&theme=midnight-purple)
