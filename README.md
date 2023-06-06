@@ -15,7 +15,7 @@
 </div>
 
 ### :woman_technologist: About Me
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a [Front-End Developer](https://namanrox.vercel.app/) from India.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a [MERN Stack Web Developer](https://namanrox.vercel.app/) from India.
 - :mailbox: How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-Namandeep%20Singh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naman991/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:naman.deep991@gmail.com)
 - :zap: Check out my [Resume](https://github.com/namanrox/namanrox/files/11138437/Namandeep.Singh.pdf)
 
