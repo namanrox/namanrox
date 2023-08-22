@@ -15,11 +15,14 @@
 </div>
 
 ### :woman_technologist: About Me
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a [MERN Stack Web Developer](https://namanrox.vercel.app/) from India.
-- :mailbox: How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-Namandeep%20Singh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naman991/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:naman.deep991@gmail.com)
-- :zap: Check out my [Resume](https://github.com/namanrox/namanrox/files/12329606/Namandeep.Singh.pdf)
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a [MERN Stack Web Developer](https://namanrox.vercel.app/) from India and **DSA (Data Structures and Algorithm) enthusiast**.
 
+- 🤝 I’m looking to collaborate on **Web Development Projects**.
 
+- 💬 Ask me about **Front-End, Back-End, Firebase, SQL, MongoDB, and C++**.
+
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Namandeep%20Singh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naman991/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:naman.deep991@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/naman_rox)
+- :zap: Check out my [**Resume**](https://github.com/namanrox/namanrox/files/12329606/Namandeep.Singh.pdf)⬇️
 
 ---
 ### :hammer_and_wrench: Languages and Tools
