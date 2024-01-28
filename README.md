@@ -22,8 +22,7 @@
 - 💬 Ask me about **Front-End, Back-End, Firebase, SQL, MongoDB, and C++**.
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Namandeep%20Singh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naman991/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:naman.deep991@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/naman_rox)
-- :zap: Check out my [**Resume**](https://github.com/namanrox/namanrox/files/12777299/Namandeep.Singh.pdf)
-⬇️
+- :zap: Check out my [**Resume**](https://github.com/namanrox/namanrox/files/14075896/Namandeep_Singh.pdf)⬇️
 
 ---
 ### :hammer_and_wrench: Languages and Tools
