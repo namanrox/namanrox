@@ -76,7 +76,7 @@
 
 ---
 ### ✍️ Blog
-All Technical Stuff related to Android Technology can be found on my Blog. Visit [Google Blogger](https://androidtechnn.blogspot.com/) or [WordPress](http://techandra.wordpress.com/)
+#### All Technical Stuff related to Android Technology can be found on my Blog. Visit [Google Blogger](https://androidtechnn.blogspot.com/) or [WordPress](http://techandra.wordpress.com/)
 ---
 
 <!---
