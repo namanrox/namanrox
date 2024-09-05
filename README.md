@@ -77,10 +77,7 @@
 ---
 ### ✍️ Blog
 All Technical Stuff related to Android Technology can be found on my Blog. Visit [Google Blogger](https://androidtechnn.blogspot.com/) or [WordPress](http://techandra.wordpress.com/)
-
 ---
-### 🐍 Contributions
-![Snake animation](https://github.com/namanrox/namanrox/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Naman-codes2001/Naman-codes2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
