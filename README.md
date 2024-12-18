@@ -22,7 +22,7 @@
 - 💬 Ask me about **Front-End, Back-End, Firebase, SQL, MongoDB, and C++**.
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Namandeep%20Singh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naman991/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:naman.deep991@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/naman_rox)
-- :zap: Check out my [**Resume**](https://github.com/user-attachments/files/17800020/Namandeep_Singh.pdf)⬇️
+- :zap: Check out my [**Resume**](https://drive.google.com/file/d/1VuHd113PMtR-bcxdgI-P6-IzfYYncjT1/view?usp=sharing)⬇️
 
 ---
 ### :hammer_and_wrench: Languages and Tools
@@ -69,7 +69,9 @@
 
 ---
 ### :fire: My Stats
+<!---
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=namanrox&theme=violet-punch)
+--->
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=namanrox&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanrox&layout=compact&theme=midnight-purple)
 [![trophy](https://github-profile-trophy.vercel.app/?username=namanrox&theme=dracula&row=1&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
@@ -77,7 +79,7 @@
 ---
 ### ✍️ Blog
 #### All Technical Stuff related to Android Technology can be found on my Blog. Visit [Google Blogger](https://androidtechnn.blogspot.com/) or [WordPress](http://techandra.wordpress.com/)
----
+
 
 <!---
 Naman-codes2001/Naman-codes2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
